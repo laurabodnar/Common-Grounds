@@ -1,0 +1,16 @@
+ https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+body {
+  background-color: white;
+}
+
+.top-section{
+  min-height: 150px;
+  padding-left: 300px;
+  padding-top: 75px;
+}
+.navigation li{
+  min-height: 15px;
+  display:inline;
+  padding-left: 250px;
+
+}
